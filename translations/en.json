@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Virtual Motion Sensor",
+        "description": "Configure your virtual motion sensor.",
+        "data": {
+          "name": "Sensor Name",
+          "event_type": "Event Type",
+          "event_code": "Event Code",
+          "debounce_time": "Debounce Time (s)",
+          "reset_time": "Motion Active Duration (s)"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "Sensor already configured."
+    }
+  }
+}

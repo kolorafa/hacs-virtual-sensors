@@ -1,0 +1,15 @@
+{
+    "domain": "virtual_motion_sensor",
+    "name": "Virtual Motion Sensor",
+    "version": "1.0.1",
+    "documentation": "https://github.com/kolorafa/virtual-motion-sensor",
+    "requirements": [],
+    "codeowners": [
+        "@kolorafa"
+    ],
+    "config_flow": true,
+    "iot_class": "local_push",
+    "platforms": [
+        "binary_sensor"
+    ]
+}
