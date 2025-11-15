@@ -31,3 +31,4 @@ async def async_unload_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
     await hass.config_entries.async_forward_entry_unload(entry, "binary_sensor")
     hass.data[DOMAIN].pop(entry.entry_id)
     return True
+

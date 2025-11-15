@@ -97,3 +97,4 @@ class VirtualMotionSensor(BinarySensorEntity):
     def _reset_state(self):
         self._state = False
         self.async_write_ha_state()
+

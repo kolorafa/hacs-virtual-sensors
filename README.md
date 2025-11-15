@@ -20,6 +20,13 @@ Entity details:
 2. Restart Home Assistant.
 3. Add the integration via Settings → Devices & Services → Add Integration → “Virtual Motion Sensor”.
 
+### Install via HACS
+This repository is HACS compatible:
+1. In HACS, add a custom repository: category “Integration”, URL of this repository.
+2. Install “Virtual Motion Sensor”.
+3. Restart Home Assistant.
+4. Configure from Settings → Devices & Services.
+
 ## Configuration (UI)
 You will be asked for:
 - Name
