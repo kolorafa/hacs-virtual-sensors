@@ -1,5 +1,5 @@
 {
-  "name": "Virtual Sensors",
+  "name": "Virtual Motion Sensor",
   "render_readme": true,
   "domains": ["virtual_motion_sensor"]
 }
