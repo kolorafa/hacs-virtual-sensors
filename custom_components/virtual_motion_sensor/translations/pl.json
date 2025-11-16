@@ -8,8 +8,8 @@
           "name": "Nazwa czujnika",
           "event_type": "Typ zdarzenia",
           "event_code": "Kod zdarzenia",
-          "debounce_time": "Czas odbicia (s)",
-          "reset_time": "Czas aktywności ruchu (s)"
+          "debounce_time": "Czas eliminacji powtórzeń (s)",
+          "reset_time": "Czas aktywności sensora (s)"
         }
       }
     },
