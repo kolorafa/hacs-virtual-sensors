@@ -2,7 +2,7 @@
     "domain": "virtual_motion_sensor",
     "name": "Virtual Motion Sensor",
     "version": "1.1.0",
-    "documentation": "https://github.com/kolorafa/virtual-motion-sensor",
+    "documentation": "https://github.com/kolorafa/virtual-sensors",
     "requirements": [],
     "codeowners": [
         "@kolorafa"
@@ -13,4 +13,3 @@
         "binary_sensor"
     ]
 }
-
