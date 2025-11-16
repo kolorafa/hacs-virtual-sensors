@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#00BCD4" stroke-linecap="round">
+    <!-- PIR sensor body -->
+    <rect x="196" y="116" width="120" height="76" rx="16" fill="#00BCD4" stroke="none"/>
+    <rect x="212" y="132" width="88" height="20" rx="8" fill="#FFFFFF" opacity="0.85" stroke="none"/>
+    <!-- Motion arcs -->
+    <path d="M112,320 A144,144 0 0 0 400,320" stroke-width="22"/>
+    <path d="M160,320 A96,96 0 0 0 352,320" stroke-width="20"/>
+    <path d="M208,320 A48,48 0 0 0 304,320" stroke-width="18"/>
+  </g>
+</svg>
+
+
